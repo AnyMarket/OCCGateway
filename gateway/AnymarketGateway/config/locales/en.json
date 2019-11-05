@@ -1,0 +1,12 @@
+{
+    "resources": {
+        "title": "Anymarket Gateway Config",
+        "description":"Anymarket Payment Gateway configuration",
+        "agentInstanceLabel": "Agent Configuration",
+        "previewInstanceLabel": "Preview Configuration",
+        "storefrontInstanceLabel": "Storefront Configuration",
+        "countryLabel": "País",
+        "cashLabel": "Anymarket",
+        "brasilLabel": "Brasil"
+    }
+}

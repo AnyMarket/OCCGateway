@@ -1,0 +1,7 @@
+{
+    "provider": "Anymarket Provider",
+    "paymentMethodTypes": ["cash"],
+    "transactionTypes": {
+      "cash": ["initiate"]
+    }
+  }
